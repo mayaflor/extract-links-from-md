@@ -1,0 +1,27 @@
+{
+  "name": "extract-links-maya",
+  "version": "1.0.0",
+  "description": "A library that extracts links from texts",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayaflor/extract-links-from-md.git"
+  },
+  "author": "Mayara Ramos Rebelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayaflor/extract-links-from-md/issues"
+  },
+  "homepage": "https://github.com/mayaflor/extract-links-from-md#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "nyc": "^13.0.1"
+  }
+}
